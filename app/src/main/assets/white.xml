@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<List>
+    <app name="deletetool" package="cn.com.hewoyi.deletetool"/>
+    <app name="应用宝" package="com.tencent.android.qqdownloader"/>
+    <app name="应用宝2" package="com.tencent.assistant.activity.SplashActivity"/>
+    <app name="QQ浏览器" package="com.tencent.mtt"/>
+    <app name="QQ浏览器2" package="com.tencent.mtt.SplashActivity"/>
+    <app name="手机管家" package="com.tencent.qqpimsecure"/>
+    <app name="手机管家2" package="com.tencent.server.fore.QuickLoadActivity"/>
+    <app name="QQ阅读2" package="com.qq.reader.activity.SplashActivity"/>
+    <app name="QQ阅读" package="com.qq.reader"/>
+    <app name="百度2" package="com.baidu.searchbox.MainActivity"/>
+    <app name="百度" package="com.baidu.searchbox"/>
+    <app name="百度浏览器2" package="com.baidu.browser.framework.BdBrowserActivity"/>
+    <app name="百度浏览器" package="com.baidu.browser.apps"/>
+
+</List>

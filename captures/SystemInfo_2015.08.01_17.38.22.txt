@@ -1,0 +1,9 @@
+TASK cn.com.hewoyi.deletetool id=36
+  ACTIVITY cn.com.hewoyi.deletetool/.Activeties.HomeActivity 41cf9bc0 pid=1326
+    Local Activity 41d21070 State:
+      mResumed=true mStopped=false mFinished=false
+      mLoadersStarted=true
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 0mcc0mnc zh_CN sw320dp w320dp h508dp nrml long port finger -keyb/v/h -nav/h s.3 themeResource=null}
+    FragmentManager misc state:
+      mCurState=5 mStateSaved=false mDestroyed=false
